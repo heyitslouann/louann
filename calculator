@@ -63,7 +63,7 @@ body {
 }
 
 .calculator .accent{
-   background: #f3fff3;  background: #f3fff3;;
+   background: #b2f9fa;  background: #b2f9fa;;
 }
 
 .calculator .space {
@@ -73,7 +73,7 @@ body {
     min-height: 2.4em;
     margin: 0.5%;
     border-radius: 15%;
-    border: 0.08em solid #ffffff;
+    border: 0.08em solid #ffb3ef;
     background: white;
 
 
@@ -82,7 +82,7 @@ body {
 
 .calculator button:hover,
 #backspace:hover {
-  background: #f3fff3;
+  background: #b2f9fa;
   color:#000000;
   transform: scale(0.9);
   border-radius: 20%;
@@ -92,7 +92,7 @@ body {
 .calculator 
 #clear:hover , #rad:hover  ,#deg:hover{
   background: rgb(0, 0, 0)!important;
-  color:#ffffff;
+  color:#b2f9fa;
   transform: scale(0.9);
   border-radius: 20%;
 }
@@ -106,7 +106,7 @@ body {
 .button:active,
 .button-active {
   background: rgb(0, 0, 0);
-  color:#ffffff;
+  color:#ffb3ef;
   transform: scale(0.8);
 }
 
@@ -130,15 +130,15 @@ body {
     
 #clean {
   background: rgb(27, 27, 27);
-  color:#ffffff;
+  color:#ffb3ef;
 }
 #rad {
   background: rgb(27, 27, 27);
-  color:#ffffff;
+  color:#ffb3ef;
 }
 #deg {
   background: rgb(27, 27, 27);
-  color:#ffffff;
+  color:#ffb3ef;
 }
 
 .rows{
